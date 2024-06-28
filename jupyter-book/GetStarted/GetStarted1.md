@@ -1,6 +1,6 @@
 # The Premise
 
-
+.
 
 From Jon Labadie-Bartz:
 * My SB1 guess is based on an RV analysis of absorption lines over a ~70 d baseline (just from my own NRES data) with a preliminary Porb ~50 d. This seems supported by variations in Halpha asymmetry with the same timescale (presumably from the usual m=2 density wave patterns associated with the orbit of a companion). 
