@@ -1,0 +1,6 @@
+format: jb-book
+root: GetStarted/GetStarted1.md
+parts:
+ - caption: Segments
+   chapters:
+   - file: Segments/test.md
